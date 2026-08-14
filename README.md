@@ -26,7 +26,7 @@ Hi there! I'm Palak Bhoyar, a B.Tech IT Undergraduate (Class of 2027) with a pas
 systems and exploring the intersection of development and operations.
 
 🎓 Final Year: IT Undergrad (2027 Batch)
-💡 Interested in: DevOps, Cloud Computing (AWS), and Full-Stack Software Development.
+💡 Interested in: Multi-Cloud and DevOps
 🛠️ Focus: Creating dynamic, resilient architectures and CLI tools that solve real-world problems.
 🌱 Currently Learning: Advanced Kubernetes patterns and Infrastructure as Code (Terraform).
 💬 Ask me about: Why I love the terminal, AWS services, or the latest in the Dev ecosystem.
